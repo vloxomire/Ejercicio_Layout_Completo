@@ -19,19 +19,23 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Rambo"/>
+            android:text="Rambo"
+            android:id="@+id/boton1"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Rocky"/>
+            android:text="Rocky"
+            android:id="@+id/boton2"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Ghost"/>
+            android:text="Ghost"
+            android:id="@+id/boton3"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text=" E.T."/>
+            android:text=" E.T."
+            android:id="@+id/boton4"/>
     </LinearLayout>
 <TextView
     android:layout_width="wrap_content"
